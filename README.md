@@ -1,0 +1,2 @@
+# godaddy-sdk
+Godaddy API
